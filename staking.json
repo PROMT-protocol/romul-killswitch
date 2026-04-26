@@ -1,4 +1,4 @@
 {
-  "stakingEnabled": true,
-  "message": ""
+  "stakingEnabled": false,
+  "message": "Staking is temporarily unavailable."
 }
